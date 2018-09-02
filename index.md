@@ -10,9 +10,9 @@ I got my MSc in Computational Statistics and Machine Learning from [University C
 I like [books](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), [games](./Abathur.png), [west-end musicals](./Ramin.jpeg), and [Sherlock Holmes](./SH.png).
 
 ## Recent Publication
-1. Peng, Junkai, Changwen Zheng, Pin Lv, Tianyu Cui, Ye Cheng, and Lingyu Si. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _proceedings of WSCG 2018_.
+1. Cui, Tianyu, Francesco Caravelli, and Cozmin Ududec. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
 2. Ye, Ruiqi, Mingxue Liao, Tianyu Cui, and Pin Lv. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." In _Big Data Analysis (ICBDA), 2018 IEEE 3rd International Conference_ on, pp. 97-101. IEEE, 2018.
-3. Cui, Tianyu, Francesco Caravelli, and Cozmin Ududec. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
+3. Peng, Junkai, Changwen Zheng, Pin Lv, Tianyu Cui, Ye Cheng, and Lingyu Si. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _proceedings of WSCG 2018_.
 
 ## Contact
 **Email**:   
