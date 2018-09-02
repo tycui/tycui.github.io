@@ -13,8 +13,6 @@ Text cn be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-  <p class="view"><a href="https://research.cs.aalto.fi/pml/">PML Group Page</a></p>
-        <p class="view"><a href="https://www.aalto.fi">Aalto University</a></p>
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
