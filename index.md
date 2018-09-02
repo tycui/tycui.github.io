@@ -1,34 +1,19 @@
 ---
 layout: default
 permalink: index.html
-title: David Barber
-description: "Machine Learning"
+title: Personal Homepage of foo boo
+description: "Blogging on ...."
 ---
 
-## Machine Learning 
+## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
 
+Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
 
-I'm fascinated about Artificial Intelligence and how to make computers smarter. We live in exciting times with rapid increases in data and compute resources. How can we use them to solve grand challenges in AI like
+* add-ons by [Samir Amin](http://sbamin.com)
+* [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
+* License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license). 
 
-* Understanding text, images and video
-* Trying to help us to reason about the world around us, like in digital assistants
-
-I hope to post on this site some thoughts about machine learning.
-
----
-
-* At UCL I lead a team of around 10 PhD students on machine learning with an emphasis on methodological developments. 
-
-* I'm also Chief Scientific Officer at [reinfer.io](https://reinfer.io/) who develop next generation customer interaction and analytics engines.
-
-Please also see [my UCL website]( http://www.cs.ucl.ac.uk/staff/d.barber) or you might also be looking for [my BRML textbook]( http://www.cs.ucl.ac.uk/staff/d.barber/brml). 
-
-
-<a class="twitter-timeline" href="https://twitter.com/davidobarber">Tweets by davidobarber</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
----
-
+Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
 
 {% if site.twitter_widget_id %}
 <div class="text-tweets">
@@ -48,6 +33,7 @@ Please also see [my UCL website]( http://www.cs.ucl.ac.uk/staff/d.barber) or you
 </script>
 </div>
 {% else %}
+Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`. [Demo](http://sbamin.com)
 {% endif %}
 
 <div class="posts">

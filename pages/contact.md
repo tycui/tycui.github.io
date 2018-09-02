@@ -13,18 +13,18 @@ sitemap:
     changefreq: 'monthly'
     lastmod: 2016-02-13
 tags:
-  - "David Barber"
-  - "directions"
+  - "foo boo"
+  - "driving directions"
   - address
 ---
 
 | <i class="fa fa-twitter"></i> | [@{{ site.owner.twitter }}](https://twitter.com/{{ site.owner.twitter }})  | 
 | - | :- |
-| <i class="fa fa-envelope"></i> | Dr David Barber<br>Department of Computer Science<br>Gower Street<br>London WC1E 6BT  | 
+| <i class="fa fa-envelope"></i> | foo<br>XYZ<br>1234 ABC ST<br>Washington, DC 11111   | 
 | - | :- |
-| <i class="fa fa-car"></i>  |  Room 3.10 66-72 Gower Street| 
+| <i class="fa fa-car"></i>  | [Driving directions]({{ site.url }}/directions) | 
 | - | :- |
-| <i class="fa fa-paper-plane">  | david.barber@ucl.ac.uk | 
+| <i class="fa fa-paper-plane">  | foo@xyz | 
 | - | :- |
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="small" data-dnt="true">Tweet</a> <a href="javascript:window.print()" class="social-icons" title="Printer friendly format"><i class="fa fa-print"></i></a>
@@ -49,4 +49,5 @@ tags:
 </script>
 </div>
 {% else %}
+Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`
 {% endif %}

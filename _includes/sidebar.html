@@ -1,9 +1,6 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<!--<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">-->
-<!--e<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>-->
-
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" {% if page.title =="Home" %}checked{% endif %}>
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -39,8 +36,10 @@
                 {% endif %}
     {% endfor %}     
 
-    <a class="sidebar-nav-item" href=" http://www.cs.ucl.ac.uk/staff/d.barber/">UCL page</a>
-
+    {% if site.version %}
+    <a class="sidebar-nav-item" href="{{ site.github_repo }}"><em>lanyon-plus project</em></a>
+    <a class="sidebar-nav-item" href="{{ site.github_repo }}/releases/tag/v{{ site.version }}">Download v{{ site.version }}</a>
+    {% endif %}
   </nav>
 
 <hr class="gh">
@@ -56,6 +55,7 @@
 </div>
 </div>
 {% else %}
+Search box will show up here if Google Custom Search key is set in <code>_config.yml</code>
 {% endif %}
 
 </div>
