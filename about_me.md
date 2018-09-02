@@ -6,7 +6,14 @@ I'm a PhD Candidate at [Probabilistic Machine Learning group](https://research.c
 I got my MSc in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/), and BSc in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).  I have worked in [Invenia Lab](https://www.invenia.ca/labs/), Cambridge with Francesco Caravelli, and [Institute of Software](http://english.is.cas.cn/), Chinese Academy of Sciences with Mingxue Liao.
 
 ## Contact
-Email: [tianyu.cui@aalto.fi](mailto: tianyu.cui@aalto.fi)
+**Email**: 
+[firstname.lastname@aalto.fi](mailto: tianyu.cui@aalto.fi)
+**Address**: 
+A340
+Konemiehentie 2 (CS building)
+FI-02150
+Espoo
+Finland
 
 
 [back](./)
