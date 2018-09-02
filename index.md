@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
- I'm a first-year PhD Candidate at [Probabilistic Machine Learning group](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Samuel Kaski and  Pekka Marttinen. I'm interested in probabilistic inference, machine learning, Statistics, quantitative finance, and many more things related to _Data Science_.
+ I'm a first-year PhD student at [Probabilistic Machine Learning group](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Samuel Kaski and  Pekka Marttinen. I'm interested in probabilistic inference, machine learning, Statistics, quantitative finance, and many more things related to _Data Science_.
 
 More about me [here](./more_about_me.html).
 
