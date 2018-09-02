@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
- I'm a PhD Candidate at [Probabilistic Machine Learning group](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Samuel Kaski and  Pekka Marttinen. I'm interested in probabilistic inference, machine learning, Statistics, quantitative finance, and many more things related to _Data Science_.
+ I'm a first-year PhD Candidate at [Probabilistic Machine Learning group](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Samuel Kaski and  Pekka Marttinen. I'm interested in probabilistic inference, machine learning, Statistics, quantitative finance, and many more things related to _Data Science_.
 
 I got my MSc in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/), and BSc in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).  I have worked for [Invenia Lab, Cambridge](https://www.invenia.ca/labs/) with Francesco Caravelli, and [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), with Mingxue Liao.
 
