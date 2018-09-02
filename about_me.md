@@ -7,12 +7,19 @@ I got my MSc in Computational Statistics and Machine Learning from [University C
 
 ## Contact
 **Email**: 
+
 [firstname.lastname@aalto.fi](mailto: tianyu.cui@aalto.fi)
+
 **Address**: 
+
 A340
+
 Konemiehentie 2 (CS building)
+
 FI-02150
+
 Espoo
+
 Finland
 
 
