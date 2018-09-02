@@ -7,7 +7,7 @@ layout: default
 
 I got my MSc in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/), and BSc in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).  I have worked for [Invenia Lab, Cambridge](https://www.invenia.ca/labs/) with Francesco Caravelli, and [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), with Mingxue Liao.
 
-
+I like [books](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), [games](./Abathur.png), [west-end musicals](./Ramin.jpeg), and [Sherlock Holmes](),
 
 ## Recent Publication
 1. Peng, Junkai, Changwen Zheng, Pin Lv, Tianyu Cui, Ye Cheng, and Lingyu Si. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _proceedings of WSCG 2018_.
