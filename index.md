@@ -14,7 +14,7 @@ More about me [here](./more_about_me.html).
 
 ## Contact
 **Email**:   
-[firstname.lastname@aalto.fi](mailto: tianyu.cui@aalto.fi)
+[firstname.lastname@aalto.fi](mailto:tianyu.cui@aalto.fi)
 
 **Address**:   
 A340  
