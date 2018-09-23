@@ -16,7 +16,7 @@ More about me [here](./more_about_me.html).
 
 ## Teaching
 **Teaching Assistant**:
-1. CS-E4820: Machine Learning: Advanced Probabilistic Methods (2019)
+1.CS-E4820: Machine Learning: Advanced Probabilistic Methods (2019)
 
 
 ## Contact
