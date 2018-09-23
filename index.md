@@ -7,14 +7,17 @@ layout: default
 
 More about me [here](./more_about_me.html).
 
-## Teaching
-### Teaching Assistant
-1. CS-E4820: Machine Learning: Advanced Probabilistic Methods (2019)
 
 ## Recent Publications
 1. Cui, Tianyu, Francesco Caravelli, and Cozmin Ududec. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
 2. Ye, Ruiqi, Mingxue Liao, Tianyu Cui, and Pin Lv. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." In _Big Data Analysis (ICBDA), 2018 IEEE 3rd International Conference_ on, pp. 97-101. IEEE, 2018.
 3. Peng, Junkai, Changwen Zheng, Pin Lv, Tianyu Cui, Ye Cheng, and Lingyu Si. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." In _Proceedings of WSCG 2018_.
+
+
+## Teaching
+**Teaching Assistant**:
+1. CS-E4820: Machine Learning: Advanced Probabilistic Methods (2019)
+
 
 ## Contact
 **Email**:   
