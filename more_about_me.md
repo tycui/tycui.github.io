@@ -6,6 +6,6 @@ I have a relatively diverse research background, as you may have noticed from my
 
 I realized that 'yu' in my name is difficult to be pronounced for non-Chinese people, so you can call me 'Tianyou' or 'Tian' for the simplest :)
 
-I'm currently living in Helsinki, which is [truly](./Helsinki.jpeg) a good place to spend your life. I like [books](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) related to probability, [video games](./Abathur.png), [west-end musicals](./Ramin.jpeg), and [Sherlock Holmes](./Yu_and_Yu.png).
+I'm currently living in Helsinki, which is [truly](./Helsinki.jpg) a good place to spend your life. I like [books](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) related to probability, [video games](./Abathur.png), [west-end musicals](./Ramin.jpeg), and [Sherlock Holmes](./Yu_and_Yu.png).
 
 [Back](./)
