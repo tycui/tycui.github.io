@@ -1,4 +1,4 @@
-## More about me
+##  Moi! Welcome to my webpage.
 
 I earned my MSc in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and BSc in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).  I have worked for [Invenia Lab, Cambridge](https://www.invenia.ca/labs/) with Francesco Caravelli, and [Institute of Software, Chinese Academy of Sciences](http://english.is.cas.cn/), with Mingxue Liao and Pin Lv.
 
@@ -6,6 +6,6 @@ I have a relatively diverse research background, as you may have noticed from my
 
 I realized that 'yu' in my name is difficult to be pronounced for non-Chinese people, so you can call me 'Tianyou' or 'Tian' for the simplest :)
 
-I'm currently living in Helsinki, which is [truly](./Helsinki.jpg) a good place to spend your life. I like [books](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) related to probability, [video games](./Abathur.png), [west-end musicals](./Ramin.jpeg), and [Sherlock Holmes](./Yu_and_Yu.png).
+I'm currently living in Helsinki, which is a [good](./Helsinki.jpg) place to spend your life. I like [books](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) related to probability theory, [video games](./Abathur.png), [west-end musicals](./Ramin.jpeg), and [Sherlock Holmes](./Yu_and_Yu.png).
 
 [Back](./)
