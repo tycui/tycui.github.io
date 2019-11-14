@@ -3,12 +3,12 @@ layout: default
 ---
 
 ## About Me
- I'm a first-year Ph.D. Candidate at [Probabilistic Machine Learning group](https://research.cs.aalto.fi/pml/), [Aalto University](http://www.aalto.fi/en/), working with Samuel Kaski and  Pekka Marttinen. I'm interested in Bayesian neural networks, Gaussian Processes, interpretable machine learning, computational Genomics, and many more things related to _Data Science_.
+ I'm a second-year Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Samuel Kaski and Pekka Marttinen. I'm interested in Bayesian deep learning, Gaussian processes, interpretable machine learning, computational Genomics, and many more things related to _Data Science_.
 
 More about me [here](./more_about_me.html).
 
-## Preprints
-1. Tianyu Cui, Pekka Marttinen, and Samuel Kaski. "Recovering Pairwise Interactions Using Neural Networks" _arXiv preprint arXiv:1901.08361_, 2019.
+## Workshops
+1. Tianyu Cui, Pekka Marttinen, and Samuel Kaski. "Recovering Pairwise Interactions Using Neural Networks" _NeurIPS Bayesian Deep Learning Workshop_, 2019.
 
 ## Publications
 1. Tianyu Cui, Francesco Caravelli, and Cozmin Ududec. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
@@ -20,6 +20,9 @@ More about me [here](./more_about_me.html).
 **Teaching Assistant**:
 1. CS-E4820: Machine Learning: Advanced Probabilistic Methods (2019)
 
+## Advising
+**Bachelor Thesis**:
+1. Joona Marjakangas. Topic: Interpretable deep learning in bioinformatics. (2019)
 
 ## Contact
 **Email**:   
