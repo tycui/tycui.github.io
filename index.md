@@ -8,17 +8,19 @@ layout: default
 More about me [here](./more_about_me.html).
 
 ## Workshops
-1. Tianyu Cui, Pekka Marttinen, and Samuel Kaski. "Recovering Pairwise Interactions Using Neural Networks" _NeurIPS Bayesian Deep Learning Workshop_, 2019.
+1. Cui, T., Marttinen, P.*, and Kaski, S.* (2019). "Recovering Pairwise Interactions Using Neural Networks" _NeurIPS Bayesian Deep Learning Workshop_, 2019.
 
 ## Publications
-1. Tianyu Cui, Francesco Caravelli, and Cozmin Ududec. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
-2. Ruiqi Ye, Mingxue Liao, Tianyu Cui, and Pin Lv. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." In _Big Data Analysis (ICBDA), 2018 IEEE 3rd International Conference_ on, pp. 97-101. IEEE, 2018.
-3. Junkai Peng, Changwen Zheng, Pin Lv, Tianyu Cui, Ye Cheng, and Lingyu Si. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." In _Proceedings of WSCG 2018_.
+4. Cui, T., Marttinen, P.*, and Kaski, S.* (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _Proceedings of the 24th European Conference on Artificial Intelligence (ECAI 2020)_, to appear.
+3. Ye R., Liao, M., Cui, T., and Lv, P. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." In _Big Data Analysis (ICBDA), 2018 IEEE 3rd International Conference_ on, pp. 97-101. IEEE, 2018.
+2. Peng, J., Zheng, C., Lv, P., Cui, T., Cheng, Y., and Si, L. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." In _Proceedings of WSCG 2018_.
+1. Cui, T., Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
 
 
 ## Teaching
 **Teaching Assistant**:
 1. CS-E4820: Machine Learning: Advanced Probabilistic Methods (2019)
+2. CS-E4820: Machine Learning: Advanced Probabilistic Methods (2020)
 
 ## Advising
 **Bachelor Thesis**:
