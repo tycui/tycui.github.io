@@ -16,7 +16,7 @@ More about me [here](./more_about_me.html).
 1. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _Proceedings of WSCG 2018_.
 
 ## Workshops
-1. **Cui, T.**, Marttinen, P., and Kaski, S. (2019). "Recovering Pairwise Interactions Using Neural Networks" _NeurIPS Bayesian Deep Learning Workshop_, 2019.
+1. **Cui, T.**, Marttinen, P., and Kaski, S. (2019). "Recovering Pairwise Interactions Using Neural Networks" _NeurIPS 2019 Workshop on Bayesian Deep Learning_,.
 
 ## Teaching
 **Teaching Assistant**:
