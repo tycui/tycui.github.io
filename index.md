@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
- I'm a second-year Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I'm interested in Bayesian deep learning, Gaussian processes, interpretable machine learning, computational Genomics, and many more things related to _Data Science_.
+ I'm a second-year Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I'm interested in Bayesian deep learning, interpretable machine learning, computational genomics, and many more things related to _Data Science_.
 
 More about me [here](./more_about_me.html).
 
@@ -20,11 +20,13 @@ More about me [here](./more_about_me.html).
 
 ## Teaching
 **Teaching Assistant**:
-1. CS-E4820: Machine Learning: Advanced Probabilistic Methods (2019, 2020)
+1. [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020)
 
 ## Advising
 **Bachelor Thesis**:
+2. Kalle Makela. Topic: Bayesian deep learning for genomics applications. (2020)
 1. Joona Marjakangas. Topic: Interpretable deep learning in bioinformatics. (2019)
+
 
 ## Contact
 **Email**:   
