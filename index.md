@@ -7,8 +7,11 @@ layout: default
 
 More about me [here](./more_about_me.html).
 
+## Working paper
+1. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2020). "Informative Gaussian Scale Mixture Priors for Bayesian Neural Networks." _submitted._ [Arxiv preprint](https://arxiv.org/abs/2002.10243) 
+
 ## Journals
-4. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
+1. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
 
 ## Conferences
 3. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _Proceedings of the 24th European Conference on Artificial Intelligence (ECAI 2020)_, to appear.
