@@ -7,18 +7,20 @@ layout: default
 
 More about me [here](./more_about_me.html).
 
-## Working paper
+## Publications
+
+### Working paper:
 1. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2020). "Informative Gaussian Scale Mixture Priors for Bayesian Neural Networks." _submitted._ [arXiv preprint.](https://arxiv.org/abs/2002.10243) 
 
-## Journals
+### Journals:
 1. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
 
-## Conferences
+### Conferences:
 3. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _Proceedings of the 24th European Conference on Artificial Intelligence (ECAI 2020)_, to appear.
 2. Ye, R., Liao, M., **Cui, T.**, and Lv, P. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." _Proceedings of the IEEE 3rd International Conference on Big Data Analysis (ICBDA 2018)_.
 1. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _Proceedings of the 24th International Conference on Computer Graphics, Visualization and Computer Vision (WSCG 2018)_.
 
-## Workshops
+### Workshops:
 1. **Cui, T.**, Marttinen, P., and Kaski, S. (2019). "Recovering Pairwise Interactions Using Neural Networks" _Bayesian Deep Learning, Workshop at NeurIPS 2019_.
 
 ## Teaching
