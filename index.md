@@ -28,7 +28,9 @@ More about me [here](./more_about_me.html).
 1. [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020)
 
 ## Advising
-**Bachelor Thesis**:
+**Master of Science Thesis**:
+1. Kha L. H. Nguyen. Topic: Uncertainty in Recurrent Neural Network with Dropout (2020)
+**Bachelor of Science Thesis**:
 2. Kalle Makela. Topic: Bayesian deep learning for genomics applications. (2020)
 1. Joona Marjakangas. Topic: Interpretable deep learning in bioinformatics. (2019)
 
@@ -38,8 +40,8 @@ More about me [here](./more_about_me.html).
 [firstname.lastname@aalto.fi](mailto:tianyu.cui@aalto.fi)
 
 **Address**:   
-A340  
-Konemiehentie 2 (CS building)  
+A340, Tietotekniikka-talo (CS building)
+Konemiehentie 2
 FI-02150  
 Espoo  
 Finland  
