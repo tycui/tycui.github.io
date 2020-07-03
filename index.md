@@ -41,9 +41,9 @@ More about me [here](./more_about_me.html).
 [firstname.lastname@aalto.fi](mailto:tianyu.cui@aalto.fi)
 
 **Address**:   
-A340, Tietotekniikka-talo (CS building)
-Konemiehentie 2
-FI-02150
-Espoo  
+A340, Tietotekniikka-talo (CS building)\\
+Konemiehentie 2\\
+FI-02150\\
+Espoo\\
 Finland  
 
