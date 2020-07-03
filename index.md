@@ -42,8 +42,11 @@ More about me [here](./more_about_me.html).
 
 **Address**:   
 A340, Tietotekniikka-talo (CS building)
+
 Konemiehentie 2
-FI-02150  
+
+FI-02150
+
 Espoo  
 Finland  
 
