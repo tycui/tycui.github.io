@@ -29,7 +29,8 @@ More about me [here](./more_about_me.html).
 
 ## Advising
 **Master of Science Thesis**:
-1. Kha L. H. Nguyen. Topic: Uncertainty in Recurrent Neural Network with Dropout (2020)
+1. Kha L. H. Nguyen. Topic: Uncertainty in Recurrent Neural Network with Dropout. (2020)
+
 **Bachelor of Science Thesis**:
 2. Kalle Makela. Topic: Bayesian deep learning for genomics applications. (2020)
 1. Joona Marjakangas. Topic: Interpretable deep learning in bioinformatics. (2019)
