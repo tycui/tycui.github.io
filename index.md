@@ -9,7 +9,7 @@ More about me [here](./more_about_me.html).
 
 ## Publications
 
-### Submitted paper:
+### Submitted:
 1. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2020). "Informative Bayesian Neural Network Priors for Weak Signals." _submitted._ [arXiv preprint.](https://arxiv.org/abs/2002.10243)
 2. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.03.12.435063v1)
 
@@ -24,20 +24,18 @@ More about me [here](./more_about_me.html).
 ### Workshops:
 1. **Cui, T.**, Marttinen, P., and Kaski, S. (2019). "Recovering Pairwise Interactions Using Neural Networks" _Bayesian Deep Learning, Workshop at NeurIPS 2019_.
 
-## Reviewing:
+## Services
+### Reviewing:
 1. ICML
 
-## Teaching:
-**Teaching Assistant**:
-1. [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020)
+### Teaching Assistant:
+1. [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021)
 
-## Advising:
-**Master of Science Thesis**:
-1. Kha L. H. Nguyen. Topic: Uncertainty in Recurrent Neural Network with Dropout. (2020)
-
+### Advising:
+**Master Thesis**:
+1. Nguyen, K., (2020). Uncertainty in Recurrent Neural Network with Dropout.
 **Bachelor of Science Thesis**:
-2. Kalle Makela. Topic: Bayesian deep learning for genomics applications. (2020)
-1. Joona Marjakangas. Topic: Interpretable deep learning in bioinformatics. (2019)
+1. Marjakangas, J., (2019). Interaction detection by deep neural nets with application in genomics.
 
 
 ## Contact
