@@ -32,8 +32,8 @@ ICML
 [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021)
 
 ### Advising:
-2. Nguyen, K., (2020). Uncertainty in Recurrent Neural Network with Dropout.
-1. Marjakangas, J., (2019). Interaction detection by deep neural nets with application in genomics.
+1. Nguyen, K., (2020). Uncertainty in Recurrent Neural Network with Dropout.
+2. Marjakangas, J., (2019). Interaction detection by deep neural nets with application in genomics.
 
 
 ## Contact
