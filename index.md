@@ -34,7 +34,8 @@ More about me [here](./more_about_me.html).
 ### Advising:
 **Master Thesis**:
 1. Nguyen, K., (2020). Uncertainty in Recurrent Neural Network with Dropout.
-**Bachelor of Science Thesis**:
+
+**Bachelor Thesis**:
 1. Marjakangas, J., (2019). Interaction detection by deep neural nets with application in genomics.
 
 
