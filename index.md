@@ -10,14 +10,14 @@ More about me [here](./more_about_me.html).
 ## Publications
 
 ### Submitted:
-1. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2020). "Informative Bayesian Neural Network Priors for Weak Signals." _submitted._ [arXiv preprint.](https://arxiv.org/abs/2002.10243)
-2. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.03.12.435063v1)
+1. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.03.12.435063v1)
 
 ### Journals:
+2. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2020). "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis (2021)_, accepted, [arXiv preprint.](https://arxiv.org/abs/2002.10243)
 3. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
 
 ### Conferences:
-4. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _Proceedings of the 24th European Conference on Artificial Intelligence (ECAI 2020)_, to appear.
+4. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _Proceedings of the 24th European Conference on Artificial Intelligence (ECAI 2020)_.
 5. Ye, R., Liao, M., **Cui, T.**, and Lv, P. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." _Proceedings of the IEEE 3rd International Conference on Big Data Analysis (ICBDA 2018)_.
 6. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _Proceedings of the 24th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG 2018)_.
 
