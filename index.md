@@ -13,7 +13,7 @@ More about me [here](./more_about_me.html).
 1. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.03.12.435063v1)
 
 ### Journals:
-2. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis (2021)_, accepted, [arXiv preprint.](https://arxiv.org/abs/2002.10243)
+2. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis (2021)_, 1-31. [Advance publication](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Informative-Bayesian-Neural-Network-Priors-for-Weak-Signals/10.1214/21-BA1291.full)
 3. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
 
 ### Conferences:
