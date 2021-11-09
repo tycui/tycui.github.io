@@ -10,19 +10,20 @@ More about me [here](./more_about_me.html).
 ## Publications
 
 ### Submitted:
-1. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.03.12.435063v1)
+1. **Cui, T.**, El Mekkaoui, K., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Improving Neural Networks for Genotype-Phenotype Prediction Using Published Summary Statistics." _submitted._
+2. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.03.12.435063v1)
 
 ### Journals:
-2. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis (2021)_, 1-31. [Advance publication](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Informative-Bayesian-Neural-Network-Priors-for-Weak-Signals/10.1214/21-BA1291.full)
-3. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
+3. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis (2021)_, 1-31. [Advance publication](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Informative-Bayesian-Neural-Network-Priors-for-Weak-Signals/10.1214/21-BA1291.full)
+4. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
 
 ### Conferences:
-4. **Cui, T.**, Marttinen, P., and Kaski, S. "Learning Global Pairwise Interactions with Bayesian Neural Networks." _Proceedings of the 24th European Conference on Artificial Intelligence (ECAI 2020)_.
-5. Ye, R., Liao, M., **Cui, T.**, and Lv, P. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." _Proceedings of the IEEE 3rd International Conference on Big Data Analysis (ICBDA 2018)_.
-6. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _Proceedings of the 24th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG 2018)_.
+5. **Cui, T.**, Marttinen, P., and Kaski, S. "Learning Global Pairwise Interactions with Bayesian Neural Networks." _Proceedings of the 24th European Conference on Artificial Intelligence (ECAI 2020)_.
+6. Ye, R., Liao, M., **Cui, T.**, and Lv, P. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." _Proceedings of the IEEE 3rd International Conference on Big Data Analysis (ICBDA 2018)_.
+7. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _Proceedings of the 24th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG 2018)_.
 
 ### Workshops:
-7. **Cui, T.**, Marttinen, P., and Kaski, S. "Recovering Pairwise Interactions Using Neural Networks" _Bayesian Deep Learning, Workshop at NeurIPS 2019_.
+8. **Cui, T.**, Marttinen, P., and Kaski, S. "Recovering Pairwise Interactions Using Neural Networks" _Bayesian Deep Learning, Workshop at NeurIPS 2019_.
 
 ## Services
 ### Reviewing:
