@@ -10,7 +10,7 @@ More about me [here](./more_about_me.html).
 ## Publications
 
 ### Submitted:
-1. **Cui, T.**, El Mekkaoui, K., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Improving Neural Networks for Genotype-Phenotype Prediction Using Published Summary Statistics." _submitted._
+1. **Cui, T.**, El Mekkaoui, K., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Improving Neural Networks for Genotype-Phenotype Prediction Using Published Summary Statistics." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.11.09.467937v1)
 2. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.03.12.435063v1)
 
 ### Journals:
