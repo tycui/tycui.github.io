@@ -17,7 +17,6 @@ More about me [here](./more_about_me.html).
 6. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _Proceedings of the 24th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG 2018)_.
 7. Ye, R., Liao, M., **Cui, T.**, and Lv, P. "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." _Proceedings of the IEEE 3rd International Conference on Big Data Analysis (ICBDA 2018)_.
 8. **Cui, T.**, Caravelli, F., and Ududec, C. "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
-{: reversed="reversed"}
 
 
 ## Workshops:
