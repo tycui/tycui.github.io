@@ -20,7 +20,7 @@ More about me [here](./more_about_me.html).
 
 
 ## Workshops:
-1.**Cui, T.**, Marttinen, P., and Kaski, S. "Recovering Pairwise Interactions Using Neural Networks" _Bayesian Deep Learning, Workshop at NeurIPS 2019_.
+1. **Cui, T.**, Marttinen, P., and Kaski, S. "Recovering Pairwise Interactions Using Neural Networks" _Bayesian Deep Learning, Workshop at NeurIPS 2019_.
 
 ## Services
 ### Reviewing:
