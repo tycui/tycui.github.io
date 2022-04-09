@@ -30,10 +30,11 @@ ICML
 ### Teaching Assistant:
 [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021)
 
-### Advising:
-1. Nguyen, K., (2020). Uncertainty in Recurrent Neural Network with Dropout.
-2. Marjakangas, J., (2019). Interaction detection by deep neural nets with application in genomics.
-
+### Thesis Advisor:
+0. Qian, Z., (2021). Handling missing values with hybrid approaches in supervised setting.
+0. Nguyen, K., (2020). Uncertainty in Recurrent Neural Network with Dropout.
+0. Marjakangas, J., (2019). Interaction detection by deep neural nets with application in genomics.
+{: reversed="reversed"}
 
 ## Contact
 **Email**:   
