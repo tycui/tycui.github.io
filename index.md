@@ -9,6 +9,8 @@ More about me [here](./more_about_me.html).
 
 ## Publications
 
+
+0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. (2022). "Look beyond labels: Incorporating functional summary information in Bayesian neural networks." _submitted._ 
 0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. (2022). "Deconfounded Representation Similarity for Comparison of Neural Networks." _submitted._ [arXiv preprint.](https://arxiv.org/abs/2202.00095)
 0. **Cui, T.**, El Mekkaoui, K., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Improving Neural Networks for Genotype-Phenotype Prediction Using Published Summary Statistics." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.11.09.467937v1)
 0. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.03.12.435063v1)
