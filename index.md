@@ -27,10 +27,10 @@ More about me [here](./more_about_me.html).
 
 ## Services
 ### Reviewing:
-ICML
+ICML, AISTATS
 
 ### Teaching Assistant:
-[CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021)
+[CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021, 2022)
 
 ### Thesis Advisor:
 0. Qian, Z., (2021). Handling missing values with hybrid approaches in supervised setting.
