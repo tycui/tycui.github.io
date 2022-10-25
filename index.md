@@ -11,10 +11,10 @@ More about me [here](./more_about_me.html).
 
 
 0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. (2022). "Incorporating functional summary information in Bayesian neural networks using Dirichlet process likelihood approach." _submitted._ [arXiv preprint.](https://arxiv.org/abs/2207.01234)
-0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. (2022). "Deconfounded Representation Similarity for Comparison of Neural Networks." _36th Conference on Neural Information Processing Systems (NeurIPS 2022)._ *(Oral Presentation)*
+0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. (2022). "Deconfounded Representation Similarity for Comparison of Neural Networks." _36th Conference on Neural Information Processing Systems (NeurIPS 2022)._ **(Oral Presentation)**
 0. **Cui, T.**, El Mekkaoui, K., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Improving Neural Networks for Genotype-Phenotype Prediction Using Published Summary Statistics." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.11.09.467937v1)
 0. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Gene-Gene Interaction Detection with Deep Learning." _Communications Biology._ 
-0. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis_, 1-31. *(Invited presentation at JSM 2022)*
+0. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis_, 1-31. **(Invited presentation at JSM 2022)**
 0. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _Proceedings of the 24th European Conference on Artificial Intelligence (ECAI 2020)_.
 0. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. (2018). "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _Proceedings of the 24th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG 2018)_.
 0. Ye, R., Liao, M., **Cui, T.**, and Lv, P. (2018). "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." _Proceedings of the IEEE 3rd International Conference on Big Data Analysis (ICBDA 2018)_.
