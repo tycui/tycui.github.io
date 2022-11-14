@@ -26,8 +26,11 @@ More about me [here](./more_about_me.html).
 {: reversed="reversed"}
 
 ## Services
-### Reviewing:
-ICML, AISTATS
+### Programme Committee:
+ICML (Best reviewer award: 2021), AISTATS
+
+### Reviewer:
+Methods in Ecology and Evolution
 
 ### Teaching Assistant:
 [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021, 2022)
