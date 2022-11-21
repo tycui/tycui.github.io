@@ -9,7 +9,7 @@ More about me [here](./more_about_me.html).
 
 # Publications
 
-## Machine Learning and Probabilistic Modeling
+## Machine Learning and Probabilistic Modeling:
 0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. (2022). "Incorporating functional summary information in Bayesian neural networks using Dirichlet process likelihood approach." _submitted._ [arXiv preprint.](https://arxiv.org/abs/2207.01234)
 0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. (2022). "Deconfounded Representation Similarity for Comparison of Neural Networks." _36th Conference on Neural Information Processing Systems (NeurIPS 2022)._ **(Oral Presentation)**
 0. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis_, 1-31. **(Invited presentation at JSM 2022)**
