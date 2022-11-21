@@ -3,9 +3,8 @@ layout: default
 ---
 
 # About Me
- I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I'm interested in Bayesian deep learning, interpretable machine learning, computational genomics, and many more things related to _Data Science_.
+ I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I earned my MSc in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and my BSc in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). I'm interested in machine learning and Bayesian modeling, as well as their applications in biomedicine.
 
-More about me [here](./more_about_me.html).
 
 # Publications
 
