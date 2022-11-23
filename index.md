@@ -17,7 +17,7 @@ layout: default
 
 ## Applications:
 0. **Cui, T.**, El Mekkaoui, K., Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Improving Neural Networks for Genotype-Phenotype Prediction Using Published Summary Statistics." _submitted._ [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.11.09.467937v1)
-0. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2022). "Gene-Gene Interaction Detection with Deep Learning." _Communications Biology_, 5, 1238 (2022). 
+0. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2022). "Gene-Gene Interaction Detection with Deep Learning." _Nature Communications Biology_, 5, 1238 (2022). 
 0. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. (2018). "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _Proceedings of the 24th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG 2018)_.
 0. Ye, R., Liao, M., **Cui, T.**, and Lv, P. (2018). "The simulation of open one-side uncertain probability for fusion model of data uncertainty and data relation uncertainty." _Proceedings of the IEEE 3rd International Conference on Big Data Analysis (ICBDA 2018)_.
 0. **Cui, T.**, Caravelli, F., and Ududec, C. (2018). "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_ 492 (2018): 1507-1522.
