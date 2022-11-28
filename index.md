@@ -3,12 +3,12 @@ layout: default
 ---
 
 # About Me
- I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I earned my M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and my B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). I'm interested in machine learning and Bayesian modeling, as well as their applications in biomedicine.
+ I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I earned my M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and my B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). I'm interested in machine learning and Bayesian modeling, and their applications in biomedicine and health.
 
 
 # Publications
 
-## Machine Learning and Probabilistic Modeling:
+## Probabilistic Machine Learning:
 0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. (2022). "Incorporating functional summary information in Bayesian neural networks using Dirichlet process likelihood approach." _submitted._ [arXiv preprint.](https://arxiv.org/abs/2207.01234)
 0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. (2022). "Deconfounded Representation Similarity for Comparison of Neural Networks." _36th Conference on Neural Information Processing Systems (NeurIPS 2022)._ **(Oral Presentation)**
 0. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis_, 17 (4): 1121-1151. **(Invited presentation at JSM 2022)**
@@ -34,11 +34,8 @@ Methods in Ecology and Evolution
 ## Teaching Assistant:
 [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021, 2022)
 
-## Thesis Advisor:
-0. Qian, Z., (2021). Handling missing values with hybrid approaches in supervised setting.
-0. Nguyen, K., (2020). Uncertainty in Recurrent Neural Network with Dropout.
-0. Marjakangas, J., (2019). Interaction detection by deep neural nets with application in genomics.
-{: reversed="reversed"}
+## Advisor:
+Yunseon Lee (intern, 2022), Viktoriia Huryn (intern, 2021), Zhiheng Qian (M.Sc. thesis, 2021), Kha L. H. Nguyen (M.Sc. thesis, 2020), Alejandro Ponce de Leon Chavez (intern, 2020), Joona Marjakangas (B.Sc. thesis, 2019).
 
 # Contact
 **Email**:   
