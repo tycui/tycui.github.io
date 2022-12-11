@@ -26,7 +26,7 @@ layout: default
 # Teaching
 
 ## Teaching Assistant:
-[CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021, 2022)
+[CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (Aalto University; 2019, 2020, 2021, 2022)
 
 ## Advisor:
 Yunseon Lee (intern, 2022), Viktoriia Huryn (intern, 2021), Zhiheng Qian (M.Sc. thesis, 2021), Kha L. H. Nguyen (M.Sc. thesis, 2020), Alejandro Ponce de Leon Chavez (intern, 2020), Joona Marjakangas (B.Sc. thesis, 2019).
