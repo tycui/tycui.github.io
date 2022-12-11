@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
- I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I earned my M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and my B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). I'm interested in machine learning and Bayesian modeling, and their applications in biomedicine and health.
+ I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I has acted as a program committee member/reviewer for, e.g., ICML and AISTATS. I earned my M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and my B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). I work on machine learning and Bayesian modeling, and applications in biomedicine and health.
 
 
 # Selected Publications
@@ -23,12 +23,7 @@ layout: default
 {: reversed="reversed"}
 
 
-# Services
-## Programme Committee:
-ICML (Best reviewer award: 2021), AISTATS
-
-## Reviewer:
-Methods in Ecology and Evolution
+# Teaching
 
 ## Teaching Assistant:
 [CS-E4820: Machine Learning: Advanced Probabilistic Methods](https://mycourses.aalto.fi/course/view.php?id=24365) (2019, 2020, 2021, 2022)
