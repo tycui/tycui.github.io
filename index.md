@@ -2,8 +2,10 @@
 layout: default
 ---
 
-# About Me
- I'm a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). I work on machine learning and Bayesian modeling and their applications to understanding and treating disease. I have acted as a program committee member/reviewer for, e.g., ICML, AISTATS, and JMLR. I earned my M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and my B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
+# Biography
+Tianyu Cui is a Ph.D. Candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/), [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). He was a visiting researcher at [The University of Manchester](https://www.manchester.ac.uk/), supported by the UKRI Turing AI World-Leading Researcher Fellowship from [The Alan Turing Institute](https://www.turing.ac.uk/). He earned his M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
+
+His research interests are in deep learning and Bayesian modeling, with a special interest in probabilistic methods for biomedical applications. He has acted as a program committee member/reviewer for, e.g., ICML, AISTATS, and JMLR.
 
 
 # Selected Publications
