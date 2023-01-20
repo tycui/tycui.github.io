@@ -11,7 +11,7 @@ His research interests are in deep learning and Bayesian modeling, with a specia
 # Selected Publications
 
 ## Probabilistic Machine Learning:
-0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. (2022). "Incorporating functional summary information in Bayesian neural networks using Dirichlet process likelihood approach." _26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)._
+0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. (2023). "Incorporating functional summary information in Bayesian neural networks using Dirichlet process likelihood approach." _26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)._
 0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. (2022). "Deconfounded Representation Similarity for Comparison of Neural Networks." _36th Conference on Neural Information Processing Systems (NeurIPS 2022)._ **(Oral presentation, top 1% of all submissions)**
 0. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. (2021). "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis_, 17 (4): 1121-1151. **(Invited oral presentation at Joint Statistical Meetings 2022)**
 0. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _24th European Conference on Artificial Intelligence (ECAI 2020)_.
