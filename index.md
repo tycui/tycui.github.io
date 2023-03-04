@@ -35,11 +35,5 @@ Yunseon Lee (intern, 2022), Viktoriia Huryn (intern, 2021), Zhiheng Qian (M.Sc. 
 
 # Contact
 **Email**:   
-[firstname.lastname@aalto.fi](mailto:tianyu.cui@aalto.fi)
+[t.cui23@imperial.ac.uk](mailto:t.cui23@imperial.ac.uk)
 
-**Address**:   
-A340, Tietotekniikka-talo (CS building)\\
-Konemiehentie 2\\
-FI-02150\\
-Espoo\\
-Finland  
