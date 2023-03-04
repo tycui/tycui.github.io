@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Biography
-Tianyu Cui is a Ph.D. Candidate at the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) group and the [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/) group, [Aalto University](http://www.aalto.fi/en/), working with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). He is a visiting researcher at [The University of Manchester](https://www.manchester.ac.uk/), supported by the UKRI Turing AI World-Leading Researcher Fellowship. He earned his M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
+Tianyu Cui is a postdoc research associate in machine learning for healthcare at [Imperial College London](https://www.imperial.ac.uk/). He is also a visiting researcher at [The University of Manchester](https://www.manchester.ac.uk/), supported by the UKRI Turing AI World-Leading Researcher Fellowship. He read his Ph.D. from the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) group and the [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/) group, [Aalto University](http://www.aalto.fi/en/), advised by Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). He earned his M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 
-His research interests are in deep learning and Bayesian modeling, with a special interest in probabilistic methods for biomedical applications. He has acted as a program committee member/reviewer for, e.g., ICML, AISTATS, and JMLR.
+His research interests are in deep learning and Bayesian modeling, with a special interest in probabilistic methods for biomedical applications, such as genetics and [complex diseases](https://ukdri.ac.uk/). He has acted as a program committee member/reviewer for, e.g., ICML, AISTATS, and JMLR.
 
 
 # Selected Publications
