@@ -18,6 +18,7 @@ His research interests are in deep learning and Bayesian modeling, with a specia
 - **Oral presentation** at Joint Statistical Meetings (**JSM 2022**).
 0. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _24th European Conference on Artificial Intelligence_, **ECAI 2020**.
 - **Oral presentation**.
+  
 {: reversed="reversed"}
 
 ## Applications:
