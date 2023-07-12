@@ -5,19 +5,16 @@ layout: default
 # Biography
 Tianyu Cui is a research associate in machine learning at [Imperial College London](https://www.imperial.ac.uk/), and he is also a visiting researcher at [The University of Manchester](https://www.manchester.ac.uk/). He read his Ph.D. in [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) and [Machine Learning for Health (ML4H)](https://users.ics.aalto.fi/~pemartti/) at [Aalto University](http://www.aalto.fi/en/), with Prof. [Samuel Kaski](https://people.aalto.fi/samuel.kaski) and Prof. [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/). He earned his M.Sc. in Computational Statistics and Machine Learning from [University College London](https://www.ucl.ac.uk/) and B.Sc. in Statistics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 
-His research interests are in deep learning and Bayesian modeling, with a special interest in probabilistic methods for biomedical applications, such as genetics and [complex diseases](https://ukdri.ac.uk/). He has acted as a program committee member/reviewer for, e.g., AABI, AISTATS, ICML, and JMLR.
+His research interests are in deep learning and Bayesian modelling, with a particular interest in probabilistic methods for biomedical applications, such as genetics and [complex diseases](https://ukdri.ac.uk/). He has acted as a program committee member/reviewer for, e.g., AABI, AISTATS, ICML, and JMLR.
 
 
 # Selected Publications
 
 ## Probabilistic Machine Learning:
 0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. "Incorporating functional summary information in Bayesian neural networks using Dirichlet process likelihood approach." _26th International Conference on Artificial Intelligence and Statistics_, **AISTATS 2023**.
-0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. "Deconfounded Representation Similarity for Comparison of Neural Networks." _36th Conference on Neural Information Processing Systems_, **NeurIPS 2022**.
-> **Oral presentation**.
-0. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis_, **Bayesian Anal. 2022**.     
-> **Oral presentation** at Joint Statistical Meetings (**JSM 2022**).
-0. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _24th European Conference on Artificial Intelligence_, **ECAI 2020**.
-> **Oral presentation**. 
+0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. "Deconfounded Representation Similarity for Comparison of Neural Networks." _36th Conference on Neural Information Processing Systems_, **NeurIPS 2022**. <span style="color:green"> *Oral presentation* </span>.
+0. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis_, **Bayesian Anal. 2022**. <span style="color:green"> *Oral presentation at Joint Statistical Meetings (JSM 2022)* </span>.
+0. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _24th European Conference on Artificial Intelligence_, **ECAI 2020**. <span style="color:green"> *Oral presentation* </span>.
 {: reversed="reversed"}
 
 ## Applications:
