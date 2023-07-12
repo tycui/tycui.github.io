@@ -11,7 +11,7 @@ His research interests are in deep learning and Bayesian modelling, with a parti
 # Selected Publications
 
 ## Probabilistic Machine Learning:
-0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. "Incorporating functional summary information in Bayesian neural networks using Dirichlet process likelihood approach." _26th International Conference on Artificial Intelligence and Statistics_, **AISTATS 2023**.
+0. Raj, V., **Cui, T.**, Heinonen, M., and Marttinen, P. "Incorporating functional summary information in Bayesian neural networks using Dirichlet process likelihood approach." _26th Conference on Artificial Intelligence and Statistics_, **AISTATS 2023**.
 0. **Cui, T.**, Kumar, Y., Marttinen, P., and Kaski, S. "Deconfounded Representation Similarity for Comparison of Neural Networks." _36th Conference on Neural Information Processing Systems_, **NeurIPS 2022**. <span style="color:green"> *Oral presentation* </span>
 0. **Cui, T.**, Havulinna, A., Marttinen, P., and Kaski, S. "Informative Bayesian Neural Network Priors for Weak Signals." _Bayesian Analysis_, **Bayesian Anal. 2022**. <span style="color:green"> *Oral presentation at Joint Statistical Meetings (JSM 2022)* </span>
 0. **Cui, T.**, Marttinen, P., and Kaski, S. (2020). "Learning Global Pairwise Interactions with Bayesian Neural Networks." _24th European Conference on Artificial Intelligence_, **ECAI 2020**. <span style="color:green"> *Oral presentation* </span>
@@ -20,7 +20,7 @@ His research interests are in deep learning and Bayesian modelling, with a parti
 ## Applications:
 0. **Cui, T.**, El Mekkaoui, K., Havulinna, A., Marttinen, P., and Kaski, S. (2022). "Improving Neural Networks for Genotype-Phenotype Prediction Using Published Summary Statistics." [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.11.09.467937v1)
 0. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2022). "Gene-Gene Interaction Detection with Deep Learning." _Communications Biology_, **Commun. Biol. 2022**. 
-0. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. (2018). "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _24th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision_, WSCG 2018.
+0. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. (2018). "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _24th Conference in Central Europe on Computer Graphics, Visualization and Computer Vision_, WSCG 2018.
 0. **Cui, T.**, Caravelli, F., and Ududec, C. (2018). "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_, Physica A 2018.
 {: reversed="reversed"}
 
