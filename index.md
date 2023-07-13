@@ -21,7 +21,7 @@ His research interests are in deep learning and Bayesian modelling, with a parti
 0. **Cui, T.**, El Mekkaoui, K., Havulinna, A., Marttinen, P., and Kaski, S. (2022). "Improving Neural Networks for Genotype-Phenotype Prediction Using Published Summary Statistics." [bioRxiv preprint.](https://www.biorxiv.org/content/10.1101/2021.11.09.467937v1)
 0. **Cui, T.**, El Mekkaoui, K., Reinvall, J., Havulinna, A., Marttinen, P., and Kaski, S. (2022). "Gene-Gene Interaction Detection with Deep Learning." _Communications Biology_, **Commun. Biol. 2022**. 
 0. Peng, J., Zheng, C., Lv, P., **Cui, T.**, Cheng, Y., and Si, L. (2018). "Using Images Rendered by PBRT to Train Faster R-CNN for UAV Detection." _24th Conference in Central Europe on Computer Graphics, Visualization and Computer Vision_, **WSCG 2018**.
-0. **Cui, T.**, Caravelli, F., and Ududec, C. (2018). "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_, **Phys. A: Stat. 2018**.
+0. **Cui, T.**, Caravelli, F., and Ududec, C. (2018). "Correlations and clustering in wholesale electricity markets." _Physica A: Statistical Mechanics and its Applications_, **Physica A. 2018**.
 {: reversed="reversed"}
 
 
